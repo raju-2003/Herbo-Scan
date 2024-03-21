@@ -1,0 +1,1 @@
+MediScan leverages Streamlit, OpenAI, Langchain, Serper, Python and TensorFlow to predict raw material requirements accurately. With streamlined interfaces and advanced AI capabilities, it optimizes procurement processes, ensuring efficient inventory management in pharmaceutical and healthcare industries.
