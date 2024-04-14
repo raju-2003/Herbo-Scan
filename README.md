@@ -33,7 +33,7 @@ Herbo Scan is a web application designed to identify medicinal herbal plants and
 2. **Experts Linking:** Specify your location to find experts related to herbal medicine in your area.
 3. **Store Locator:** Enter the name of the medicinal herbal plant and your location to locate stores selling the plant.
 4. **Adulteration Detection:** Upload an image of a herbal plant to predict if it is adulterated.
-5. 
+   
 **Credits:**
 This code was created by Raj Narayanan
 
